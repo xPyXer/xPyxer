@@ -29,3 +29,4 @@
       
       
       
+![Snake animation](https://github.com/xPyXer/xPyxer/blob/output/github-contribution-grid-snake.svg)
