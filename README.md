@@ -1,16 +1,31 @@
-### Hi there 👋
+## Olá! Eu sou o xPyXer
 
-<!--
-**xPyXer/xPyxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hoje estou trabalhando com Back-End
+- 🌱 Estudando Ruby / C
+<div>
+        <a href="https://github.com/xPyXer">
+        <img height="155em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
+        <img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
+        <img alight="center" alt"PyXer-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+        <img alight="center" alt"PyXer-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+        <img alight="center" alt"PyXer-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+        <img alight="center" alt"PyXer-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
+        <img alight="center" alt"PyXer-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+        <img alight="center" alt"PyXer-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>
+        <img alight="center" alt"PyXer-Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"/>
+        <img alight="center" alt"PyXer-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
+</div> 
+  
+##
+  
+<div>
+    <a href="https://github.com/xPyXer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a/>
+    <a href=""> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
+    <a href=""> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+    <img src="https://komarev.com/ghpvc/?username=xPyXer&color=blue" alt="xPyXer"/> 
+</div>
+      
+      
+      
+      
