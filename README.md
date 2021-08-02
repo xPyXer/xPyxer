@@ -4,8 +4,8 @@
 - 🌱 Estudando Ruby / C
 <div>
         <a href="https://github.com/xPyXer">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
+        <img height="155em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
+        <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
         <img alight="center" alt"PyXer-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
         <img alight="center" alt"PyXer-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
         <img alight="center" alt"PyXer-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
