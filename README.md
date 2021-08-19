@@ -6,6 +6,11 @@
         <a href="https://github.com/xPyXer">
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
         <img height="190em" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
+</div>
+        
+##
+        
+<div>
         <img alight="center" alt"PyXer-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
         <img alight="center" alt"PyXer-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
         <img alight="center" alt"PyXer-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
@@ -14,8 +19,8 @@
         <img alight="center" alt"PyXer-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>
         <img alight="center" alt"PyXer-Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"/>
         <img alight="center" alt"PyXer-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
-</div> 
-  
+</div>
+        
 ##
   
 <div>
