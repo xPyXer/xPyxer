@@ -1,7 +1,7 @@
-## Olá! Eu sou o xPyXer
+## Olá! Eu sou o Mateus Leonardo mais conhecido como xPyXer
 
-- 🔭 Hoje estou trabalhando com Back-End
-- 🌱 Estudando Ruby / C
+- 🔭 Pretendo me tornar um Full-stack developer
+- 🌱 Estudando Front-End
 <div>
         <a href="https://github.com/xPyXer">
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
