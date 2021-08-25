@@ -4,7 +4,7 @@
 - 🔭 Pretendo me tornar um Full-stack developer
 - 🌱 Estudando Front-End
         
-<h2 align="center"> Skills </h2>
+<h2 align="center"> Linguagens </h2>
         
 <div>
 <p align ="center">
