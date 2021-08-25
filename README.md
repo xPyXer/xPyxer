@@ -1,6 +1,6 @@
 ## Olá! Eu sou o xPyXer
 
-<a href="https://imgur.com/QoL8sVc"><img width="900" height="400" src="https://i.imgur.com/QoL8sVc.gif" title="Bem Vindo(a)" /></a>
+<a href="https://imgur.com/QoL8sVc"><img width="811" height="312" src="https://i.imgur.com/QoL8sVc.gif" title="Bem Vindo(a)" /></a>
 - 🔭 Pretendo me tornar um Full-stack developer
 - 🌱 Estudando Front-End
 <div>
