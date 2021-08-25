@@ -3,11 +3,6 @@
 <a href="https://imgur.com/QoL8sVc"><img width="811" height="312" src="https://i.imgur.com/QoL8sVc.gif" title="Bem Vindo(a)" /></a>
 - 🔭 Pretendo me tornar um Full-stack developer
 - 🌱 Estudando Front-End
-<div>
-        <a href="https://github.com/xPyXer">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
-        <img height="190em" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
-</div>
         
 <h2 align="center"> Skills </h2>
         
@@ -34,6 +29,11 @@
     <a href="https://www.instagram.com/xpyxer/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 </div>
+ 
+<h2 align="center"> Meu github status </h2>
+        <a href="https://github.com/xPyXer">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
+        <img height="190em" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
            
 <h2 align="center"> Meu gráfico de contribuições </h2>         
             
