@@ -1,6 +1,6 @@
 ## Olá! Eu sou o xPyXer!
 
-<img width="811" height="312" src="">
+<img align="center" width="811" height="312" src="https://github.com/xPyXer/files/blob/main/xPyXer.gif">
 
 - 🔭 Pretendo me tornar um Full-stack developer
 - 🌱 Estudando Front-End
