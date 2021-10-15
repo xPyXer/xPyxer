@@ -1,11 +1,11 @@
-## Olá! Eu sou o xPyXer!
+## Hi, i´m xPyXer!
 
 <img align="center" width="811" height="312" src="https://github.com/xPyXer/files/blob/main/xPyXer.gif">
 
-- 🔭 Pretendo me tornar um Full-stack developer
-- 🌱 Estudando Front-End
+- 🔭 I intend to become a full-stack developer
+- 🌱 Studying back end
         
-<h2 align="center"> Linguagens </h2>
+<h2 align="center"> Languages </h2>
         
 <div>
 <p align ="center">
@@ -20,7 +20,7 @@
 </p>
 </div>
         
-<h2 align="center"> Redes Sociais </h2>
+<h2 align="center"> Social Medias </h2>
   
 <div>
 <p align ="center">
@@ -36,6 +36,6 @@
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=xPyXer&show_icons=true&theme=blue-green&count_private=true"/>
         <img height="190em" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPyxer&show_icons=true&theme=blue-green&count_private=true"/>
            
-<h2 align="center"> Gráfico de contribuições </h2>         
+<h2 align="center"> Contribution graphs </h2>         
             
 ![Snake animation](https://github.com/xPyXer/xPyxer/blob/output/github-contribution-grid-snake.svg)
