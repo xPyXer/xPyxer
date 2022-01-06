@@ -1,6 +1,5 @@
-## Hi, i´m xPyXer!
+## Hi, i´m Mateus and i´m from Brazil!
 
-<img align="center" width="811" height="312" src="https://github.com/xPyXer/files/blob/main/xPyXer.gif">
 
 - 🔭 I intend to become a full-stack developer
 - 🌱 Studying back end
