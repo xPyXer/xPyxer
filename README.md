@@ -1,8 +1,8 @@
 ## Hi, i´m Mateus and i´m from Brazil!
 
 
-- 🔭 I intend to become a full-stack developer
-- 🌱 Studying back end
+- 🔭 I intend to become a full-stack developer!
+- 🌱 Studying back-end!
         
 <h2 align="center"> Languages </h2>
         
