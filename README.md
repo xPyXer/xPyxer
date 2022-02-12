@@ -3,6 +3,7 @@
 
 - 🔭 I intend to become a full-stack developer!
 - 🌱 Studying back-end!
+- 🤖 Experienced in front end!
         
 <h2 align="center"> Languages </h2>
         
