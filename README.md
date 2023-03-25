@@ -2,7 +2,7 @@
 
 
 - 🔭 I intend to become a full-stack developer!
-- 🌱 Studying back-end!
+- 🌱 Studying JAVA!
 - 🤖 Experienced in front end!
         
 <h2 align="center"> Languages </h2>
@@ -16,7 +16,7 @@
         <img alight="center" alt"PyXer-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
         <img alight="center" alt"PyXer-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>
         <img alight="center" alt"PyXer-Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"/>
-        <img alight="center" alt"PyXer-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
+        <img alight="center" alt"PyXer-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 </p>
 </div>
         
