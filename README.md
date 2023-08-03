@@ -38,4 +38,4 @@
            
 <h2 align="center"> Contribution graphs </h2>         
         
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xPyXer/xPyxer/blob/output/github-contribution-grid-snake.svg)
