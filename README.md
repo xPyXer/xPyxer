@@ -17,6 +17,7 @@
         <img alight="center" alt"PyXer-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>
         <img alight="center" alt"PyXer-Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"/>
         <img alight="center" alt"PyXer-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+        <img alight="center" alt"PyXer-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 </p>
 </div>
         
